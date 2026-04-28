@@ -110,6 +110,6 @@ After running the simulation:
 
 ## Author
 
-Project developed for robotic manipulation coursework using MATLAB.
+Project developed by Temporal Team.
 
 ---
